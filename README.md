@@ -21,18 +21,20 @@
 
 ## 🧠 About Me
 
-\`\`\`typescript
-const shashi = {
-  role:       "Full Stack Developer | SAP EWM Technical Operator",
-  education:  "B.Tech CSE @ Malla Reddy University — CGPA: 8.79",
-  location:   "Hyderabad, India 🇮🇳",
-  focus:      ["Full Stack Web Apps", "RESTful APIs", "Scalable Backends", "Clean UI"],
+<pre>
+  <code>
+    {`const shashi = {
+  role: "Full Stack Developer | SAP EWM Technical Operator",
+  education: "B.Tech CSE @ Malla Reddy University — CGPA: 8.79",
+  location: "Hyderabad, India 🇮🇳",
+  focus: ["Full Stack Web Apps", "RESTful APIs", "Scalable Backends", "Clean UI"],
   currentlyBuilding: "Production-ready full stack platforms",
-  learning:   ["Advanced Cloud Architectures", "System Design"],
+  learning: ["Advanced Cloud Architectures", "System Design"],
   achievement: "🏆 Smart India Hackathon — Led a backend development team",
-  motto:      "Ship fast. Build clean. Scale smart. 🚀"
-};
-\`\`\`
+  motto: "Ship fast. Build clean. Scale smart. 🚀"
+};`}
+  </code>
+</pre>
 
 ---
 
