@@ -21,9 +21,8 @@
 
 ## 🧠 About Me
 
-<pre>
-  <code>
-    {`const shashi = {
+```typescript
+const shashi = {
   role: "Full Stack Developer | SAP EWM Technical Operator",
   education: "B.Tech CSE @ Malla Reddy University — CGPA: 8.79",
   location: "Hyderabad, India 🇮🇳",
@@ -32,9 +31,8 @@
   learning: ["Advanced Cloud Architectures", "System Design"],
   achievement: "🏆 Smart India Hackathon — Led a backend development team",
   motto: "Ship fast. Build clean. Scale smart. 🚀"
-};`}
-  </code>
-</pre>
+};
+```
 
 ---
 
@@ -46,7 +44,6 @@
 
 ### 🎥 MeetNow — Real-Time Video Conferencing
 [![Live](https://img.shields.io/badge/🌐_Live-Visit-0EA5E9?style=flat-square)](https://meetnow.nuhvin.com)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/meetnow)
 
 > A Google Meet-style video conferencing platform with real-time, multi-party calling.
 
@@ -63,7 +60,6 @@
 
 ### 🎓 I Quantum — Educational Platform
 [![Live](https://img.shields.io/badge/🌐_Live-Visit-0EA5E9?style=flat-square)](https://iquantum.nuhvin.com)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/iquantum)
 
 > A scalable educational platform with Frontend, Backend, and Admin Panel modules.
 
@@ -148,12 +144,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiv367&layout=compact&hide_border=true&bg_color=E6F4FB&title_color=0284C7&text_color=0C4A6E&border_color=BAE6FD"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashiv367&hide_border=true&background=E6F4FB&ring=0EA5E9&fire=38BDF8&currStreakLabel=0284C7&sideLabels=0C4A6E&dates=0C4A6E&sideNums=0C4A6E&currStreakNum=0C4A6E" alt="GitHub Streak"/>
 
 </div>
