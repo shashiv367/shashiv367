@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Social Badges — replace the URLs below with your real profile links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashi%20Vardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_WITH_YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashi%20Vardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashi-vardhan-a22358343)
 [![Gmail](https://img.shields.io/badge/Gmail-vardhans367%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vardhans367@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE_WITH_YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://pshashivardhan.vercel.app/)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 \`\`\`typescript
 const shashi = {
-  role:       "Full Stack Developer",
+  role:       "Full Stack Developer | SAP EWM Technical Operator",
   education:  "B.Tech CSE @ Malla Reddy University — CGPA: 8.79",
   location:   "Hyderabad, India 🇮🇳",
   focus:      ["Full Stack Web Apps", "RESTful APIs", "Scalable Backends", "Clean UI"],
@@ -86,7 +86,7 @@ const shashi = {
 <td>
 
 **🏢 Junior Full Stack Developer Intern — Nuhvin Global Services Private Limited**
-\`May 2026 – Present\`
+\`May 2026 – July 2026\`
 
 - Architected full-stack features using React.js and Spring Boot, improving web page rendering efficiency by **25%**
 - Designed and documented secure RESTful APIs, decreasing service integration latency by **15%**
